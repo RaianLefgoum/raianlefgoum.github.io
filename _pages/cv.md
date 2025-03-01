@@ -13,13 +13,13 @@ Education
 ======
 * Industrial Ph.D. in applied mathematics, École des Ponts, IP Paris, Sep 2022 - Sep 2025
 * Master2 in applied mathematics (MODO), Université Paris Dauphine-PSL, Paris, Oct 2020 – Sep 2021
-* Engineering Degree in Computer Science, Ecole Nationale Supérieure d’Informatique, Algiers, Sep 2015 – Jul 2020
+* Engineering Degree in Computer Science, École Nationale Supérieure d’Informatique, Algiers, Sep 2015 – Jul 2020
 
 Work experience
 ======
-* Optimization Scientist, Persee, Dec 2021 – Current
+* Optimization Scientist, Persee, Paris, Dec 2021 – Current
 
-* Data Scientist Intern, Groupement Les Mousquetaires, Mar 2021 - Sep 2021
+* Data Scientist Intern, Groupement Les Mousquetaires, Châtillon, Mar 2021 - Sep 2021
 
 * Data Scientist Intern, Optimum Telecom Algérie, Algiers, Oct 2019 - July 2020
   
