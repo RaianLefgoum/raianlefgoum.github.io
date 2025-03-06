@@ -22,14 +22,15 @@ Work experience
 * Data Scientist Intern, Groupement Les Mousquetaires, Châtillon, Mar 2021 - Sep 2021
 
 * Data Scientist Intern, Optimum Telecom Algérie, Algiers, Oct 2019 - July 2020
-  
-  
-Talks
+
+
+Publications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
