@@ -23,11 +23,6 @@ Work experience
 
 * Data Scientist Intern, Optimum Telecom Algérie, Algiers, Oct 2019 - July 2020
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
