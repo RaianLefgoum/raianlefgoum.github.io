@@ -1,4 +1,3 @@
-
 ---
 title: "A production Routing Problem with Mobile Inventories"
 collection: preprints
