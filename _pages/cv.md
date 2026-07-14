@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Optimization Scientist, Persee, Paris, Dec 2021 – Current
+* Optimization and machine learning engineer, EURODECISION, Versaille, Aug 2025 - Current
+
+* Optimization Scientist, Persee, Paris, Dec 2021 – Mar 2025
 
 * Data Scientist Intern, Groupement Les Mousquetaires, Châtillon, Mar 2021 - Sep 2021
 
