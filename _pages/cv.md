@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Optimization and machine learning engineer, EURODECISION, Versaille, Aug 2025 - Current
+* Optimization and machine learning engineer, EURODECISION, Versailles, Aug 2025 - Present
 
 * Optimization Scientist, Persee, Paris, Dec 2021 – Mar 2025
 
