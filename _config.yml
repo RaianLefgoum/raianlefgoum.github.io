@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raian Lefgoum"
+title                    : "Raian LEFGOUM"
 title_separator          : "-"
-name                     : &name "Raian Lefgoum"
+name                     : &name "Raian LEFGOUM"
 description              : &description "personal description"
 url                      : https://raianlefgoum.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Optimization and machine learning engineer | Ph.D. in applied mathematics"
   location         : "Champs-sur-Marne, France"
-  employer         : ""
   email            : "lefgoum.raian@gmail.com" 
 
   # Academic websites
